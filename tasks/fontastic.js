@@ -1,7 +1,6 @@
 'use strict';
 
-var request = require('request'),
-    parser  = require('./lib/parser');
+var request = require('request');
 
 module.exports = function(grunt) {
     grunt.registerMultiTask('fontastic', 'Download fontastic fonts and css', function() {
