@@ -2,11 +2,8 @@
   "name": "grunt-fontasticland",
   "version": "0.0.1",
   "description": "A grunt task to fetch your fontastic fonts",
-  "homepage": "https://github.com/Nadenson/grunt-fontasticland",
-  "author": {
-    "name": "Influans",
-    "email": "pierre.boutbel@influans.com"
-  },
+  "homepage": "https://github.com/Nadenson/grunt-fontasticland#readme",
+  "author": "Influans",
   "main": "tasks/fontastic.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,10 +15,15 @@
   "keywords": [
     "fontastic"
   ],
-  "author": "Influans",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Nadenson/grunt-fontasticland/issues"
   },
-  "homepage": "https://github.com/Nadenson/grunt-fontasticland#readme"
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.83.0"
+  }
 }
