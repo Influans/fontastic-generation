@@ -1,8 +1,8 @@
 {
-  "name": "grunt-fontasticland",
+  "name": "fontastic-generation",
   "version": "0.0.1",
   "description": "A grunt task to fetch your fontastic fonts",
-  "homepage": "https://github.com/Nadenson/grunt-fontasticland#readme",
+  "homepage": "https://github.com/Influans/fontastic-generation#readme",
   "author": "Influans",
   "main": "tasks/fontastic.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nadenson/grunt-fontasticland.git"
+    "url": "git+https://github.com/Influans/fontastic-generation.git"
   },
   "keywords": [
     "fontastic"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nadenson/grunt-fontasticland/issues"
+    "url": "https://github.com/Influans/fontastic-generation/issues"
   },
   "dependencies": {
     "fs": "0.0.1-security",
