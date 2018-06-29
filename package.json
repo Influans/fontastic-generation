@@ -1,5 +1,5 @@
 {
-  "name": "fontastic-generation",
+  "name": "@influans/fontastic-generation",
   "version": "0.0.1",
   "description": "A grunt task to fetch your fontastic fonts",
   "homepage": "https://github.com/Influans/fontastic-generation#readme",
